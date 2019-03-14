@@ -77,6 +77,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/etc/permissions/com.vzw.vzwapnlib.xml:system/etc/permissions/com.vzw.vzwapnlib.xml \
     vendor/motorola/shamu/proprietary/etc/permissions/rcsimssettings.xml:system/etc/permissions/rcsimssettings.xml \
     vendor/motorola/shamu/proprietary/etc/permissions/rcsservice.xml:system/etc/permissions/rcsservice.xml \
+    vendor/motorola/shamu/proprietary/etc/ril/qcril.db:system/etc/ril/qcril.db \
     vendor/motorola/shamu/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/motorola/shamu/proprietary/etc/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
     vendor/motorola/shamu/proprietary/etc/flp.conf:system/etc/flp.conf \
@@ -87,7 +88,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
     vendor/motorola/shamu/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
     vendor/motorola/shamu/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
-    vendor/motorola/shamu/proprietary/etc/qcril.db:system/etc/qcril.db \
     vendor/motorola/shamu/proprietary/lib/hw/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so \
     vendor/motorola/shamu/proprietary/lib/hw/sound_trigger.primary.shamu.so:system/lib/hw/sound_trigger.primary.shamu.so \
     vendor/motorola/shamu/proprietary/lib/libadspd-jni.so:system/lib/libadspd-jni.so \
